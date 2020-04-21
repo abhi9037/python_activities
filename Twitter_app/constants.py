@@ -1,0 +1,5 @@
+CONSUMER_KEY = '9WS0lKgQXNu68RmHLXZcUjEGa'
+CONSUMER_SECRET = '394oC6SvuI5DdXUSgAXwTh8epkUpj4M2PECRY8RrBr7wgMoglV'
+REQUEST_TOKEN_URL = 'https://api.twitter.com/oauth/request_token'
+ACCESS_TOKEN_URL = 'https://api.twitter.com/oauth/access_token'
+AUTHORIZATION_URL = 'https://api.twitter.com/oauth/authorize'
