@@ -1,0 +1,1 @@
+{"name": "fakku", "movies": [{"name": "John wick", "genre": "Action", "watched": true}, {"name": "Speed", "genre": "Action", "watched": false}, {"name": "hulk", "genre": "sci-fi", "watched": true}]}
